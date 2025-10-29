@@ -21,4 +21,4 @@ Face Filter AR:
 ---
 
 ## 🎥 Demo Video
-[Klik untuk menonton di YouTube](https://drive.google.com/drive/folders/1XYOhv39U0raqYZ73lV0ztFnv4zWA83tI?usp=sharing)
+[Klik Google Drived](https://drive.google.com/drive/folders/1XYOhv39U0raqYZ73lV0ztFnv4zWA83tI?usp=sharing)
