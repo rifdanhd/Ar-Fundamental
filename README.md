@@ -9,7 +9,7 @@
 
 ## 📸 Screenshots
 Marker-based AR:  
-![Marker](Demo/Ar-Marker2.png)
+![Marker](Demo/Ar-marker2.png)
 
 Markerless AR:  
 ![Markerless](Demo/AR-markless.png)
