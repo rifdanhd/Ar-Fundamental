@@ -1,17 +1,19 @@
-# 🧠 AR Fundamental Project
+#  AR Fundamental Project
 
 ## 👩‍💻 Developer
-**Nama:** [Nama Kamu]  
-**Kelas:** [Kelas Kamu]
+**Nama:** Muhammad Rifdan Dermawan   
+**Nim:** 23552011274
+**Kelas:** 23B Online 
 
 ---
 
 ## 📸 Screenshots
-Marker-based AR:  
-![Marker](Screenshots/Marker_AR.png)
 
 Markerless AR:  
-![Markerless](Screenshots/Markerless_AR.png)
+![Markerless](Demo/AR-markless.png)
+
+Marker-based AR:  
+![Marker](Demo/Ar-marker2.png)
 
 Face Filter AR:  
 ![Face Filter](Screenshots/FaceFilter_AR.png)
