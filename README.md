@@ -1,8 +1,9 @@
-# 🧠 AR Fundamental Project
+#  AR Fundamental Project
 
 ## 👩‍💻 Developer
-**Nama:** [Nama Kamu]  
-**Kelas:** [Kelas Kamu]
+**Nama:** Muhammad Rifdan Dermawan   
+**Nim:** 23552011274
+**Kelas:** 23B Online 
 
 ---
 
