@@ -12,7 +12,7 @@
 [Mm]emoryCaptures/
 
 # Build results
-*.apk
+
 *.aab
 *.exe
 *.app
