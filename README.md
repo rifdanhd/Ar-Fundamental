@@ -16,7 +16,7 @@ Marker-based AR:
 ![Marker](Demo/Ar-marker2.png)
 
 Face Filter AR:  
-![Face Filter](Demo/Ar-marker3.png)
+![Face Filter](Demo/Ar-FaceFilter.png)
 
 ---
 
