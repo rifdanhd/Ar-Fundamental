@@ -5,6 +5,8 @@
 **Nim:** 23552011274
 **Kelas:** 23B Online 
 
+## 🎥 Demo Video
+[Klik Google Drived](https://drive.google.com/drive/folders/1XYOhv39U0raqYZ73lV0ztFnv4zWA83tI?usp=sharing)
 ---
 
 ## 📸 Screenshots
@@ -19,6 +21,3 @@ Face Filter AR:
 ![Face Filter](Demo/Ar-FaceFilter.png)
 
 ---
-
-## 🎥 Demo Video
-[Klik Google Drived](https://drive.google.com/drive/folders/1XYOhv39U0raqYZ73lV0ztFnv4zWA83tI?usp=sharing)
