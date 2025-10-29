@@ -21,10 +21,4 @@ Face Filter AR:
 ---
 
 ## 🎥 Demo Video
-[Klik untuk menonton di YouTube](https://youtu.be/abc123xyz)
-
----
-
-## 📦 Download Files
-- [📱 APK Android](https://drive.google.com/file/d/xxx)
-- [💾 Source Code (.zip)](https://drive.google.com/file/d/yyy)
+[Klik untuk menonton di YouTube](https://drive.google.com/drive/folders/1XYOhv39U0raqYZ73lV0ztFnv4zWA83tI?usp=sharing)
