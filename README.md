@@ -8,10 +8,10 @@
 
 ## 📸 Screenshots
 Marker-based AR:  
-![Marker](Demo/Ar-Marker)
+![Marker](Demo/Ar-Marker.png)
 
 Markerless AR:  
-![Markerless](Screenshots/Markerless_AR.png)
+![Markerless](Demo/AR-markless.png)
 
 Face Filter AR:  
 ![Face Filter](Screenshots/FaceFilter_AR.png)
